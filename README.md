@@ -1,6 +1,6 @@
 # Eagle Footprints
 
-Each device has it's own library but you can also get every device made using the mylibrary.lbr file.
+Each device has it's own library but you can also get every device made using the _mylibrary.lbr_ file.
 
 ## Current Devices (w/ Symbol and Footprint)
 
